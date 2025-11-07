@@ -27,6 +27,7 @@ Build Tool	Vite
 Authentication	Firebase Auth
 Database	Firebase Firestore
 External API	TMDB (The Movie Database API)
+
 🗂️ Project Structure
 RetroStream/
 │
